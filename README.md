@@ -17,10 +17,11 @@ A clean, dual-unit weather widget for TRMNL using the native merged Weather plug
 
 1. Add, setup in Fahrenheit with WeatherAPI, the official **Weather** plugin to your TRMNL playlist and **hide it**. **This is important** because only plugins on a Playlist will sync fresh data. ([Official doc](https://docs.trmnl.com/go/private-api/plugin-data))
 2. Go to **Private Plugins** → Create new → Choose **Plugin Merge** strategy.
-3. Choose your layout size (full / half vertical / half horizontal / quadrant).
-4. Paste the corresponding markup below into the editor.
-5. Replace the weather plugin name variable `weather_12345` on top of each markup variant with your plugin name from variables found below the editor.
-6. Save → force refresh your device.
+3. Click **Edit Markup**
+4. Choose your layout size (full / half vertical / half horizontal / quadrant).
+5. Paste the corresponding markup below into the editor.
+6. Replace the weather plugin name variable `weather_12345` on top of each markup variant with your plugin name from variables found below the editor.
+7. Save → force refresh your device.
 
 ---
 
